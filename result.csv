@@ -1,0 +1,107 @@
+,employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,KPIs_met >80%,awards_won?,avg_training_score,is_promoted
+124,55735,Technology,region_31,Master's & above,m,other,1,39,1,4,0,1,1,1
+350,39224,Technology,region_27,Bachelor's,m,other,1,28,1,2,0,1,1,1
+548,16924,Operations,region_13,Master's & above,f,other,2,34,1,5,0,1,1,1
+689,19098,Analytics,region_15,Bachelor's,m,other,1,31,1,4,0,1,1,1
+805,57352,Operations,region_22,Master's & above,m,referred,3,37,1,10,0,1,1,1
+953,6980,Operations,region_21,Master's & above,m,sourcing,2,46,1,12,0,1,1,1
+962,3990,Technology,region_10,Bachelor's,m,other,1,27,1,4,0,1,1,1
+1079,44416,Technology,region_4,Master's & above,f,sourcing,1,33,1,3,0,1,1,1
+1138,27967,Analytics,region_31,Bachelor's,m,sourcing,2,29,1,3,0,1,1,1
+1491,7125,Sales & Marketing,region_7,Bachelor's,m,other,1,28,1,4,0,1,1,1
+1516,28120,Procurement,region_27,Bachelor's,m,other,1,43,1,4,0,1,1,1
+1575,969,Procurement,region_2,Master's & above,m,other,1,50,1,7,0,1,1,1
+1608,66345,Operations,region_4,Master's & above,m,other,1,33,1,3,0,1,1,1
+1652,62347,HR,region_5,Master's & above,m,other,1,37,1,4,0,1,1,1
+2066,27347,R&D,region_4,Master's & above,m,sourcing,2,33,1,8,0,1,1,1
+2202,1893,Sales & Marketing,region_2,,m,sourcing,1,22,1,2,0,1,1,1
+2206,18662,Procurement,region_22,Bachelor's,f,sourcing,2,30,1,2,0,1,1,1
+2492,62211,Operations,region_27,Bachelor's,m,other,1,28,1,3,0,1,1,1
+2693,13165,Analytics,region_11,Bachelor's,m,other,1,31,1,6,0,1,1,1
+3062,38555,Procurement,region_2,Master's & above,f,sourcing,1,53,1,5,0,1,1,1
+3127,68657,Operations,region_22,Bachelor's,f,other,1,36,1,4,0,1,1,1
+3176,13382,Operations,region_22,Bachelor's,f,sourcing,2,28,1,1,0,1,1,1
+3248,73756,Procurement,region_17,Master's & above,f,other,1,54,1,16,0,1,1,1
+3408,61292,Technology,region_27,Bachelor's,m,other,2,27,1,3,0,1,1,1
+3789,48088,Analytics,region_26,Bachelor's,m,sourcing,2,40,1,5,0,1,1,1
+3973,29021,Operations,region_14,Bachelor's,m,other,1,41,1,7,0,1,1,1
+4288,67863,Operations,region_22,Master's & above,f,sourcing,1,42,1,7,0,1,1,1
+4338,16868,Sales & Marketing,region_13,Bachelor's,m,other,1,31,1,5,0,1,1,1
+4420,36557,Analytics,region_28,Bachelor's,m,other,1,31,1,5,0,1,1,1
+4480,63689,Sales & Marketing,region_13,Bachelor's,m,other,1,52,1,16,0,1,1,1
+4499,14813,Finance,region_30,Bachelor's,m,other,1,28,1,3,0,1,1,1
+4526,46706,Procurement,region_20,Bachelor's,f,sourcing,1,30,1,12,0,1,1,1
+5091,75993,Procurement,region_2,Bachelor's,f,other,1,50,1,7,0,1,1,1
+5214,2408,Operations,region_15,Bachelor's,f,other,1,37,1,10,0,1,1,1
+5552,25518,Operations,region_15,Master's & above,m,sourcing,1,41,1,9,0,1,1,1
+5964,28403,Analytics,region_34,Bachelor's,m,other,1,33,1,8,0,1,1,1
+6717,4669,Sales & Marketing,region_12,Bachelor's,m,other,1,34,1,7,0,1,1,1
+6736,15325,Operations,region_16,Master's & above,m,sourcing,2,37,1,9,0,1,1,1
+6907,28651,Procurement,region_13,Bachelor's,m,other,1,38,1,4,0,1,1,1
+7201,14655,Procurement,region_22,Master's & above,m,other,1,46,1,11,0,1,1,1
+7956,77389,Procurement,region_17,Bachelor's,f,other,1,53,1,3,0,1,1,1
+8106,46092,Finance,region_2,Bachelor's,m,sourcing,3,30,1,4,0,1,1,1
+8444,37853,Technology,region_7,Master's & above,f,sourcing,2,33,1,5,0,1,1,1
+8506,45650,Procurement,region_22,Bachelor's,m,sourcing,3,27,1,2,0,1,1,1
+8613,5631,Procurement,region_10,Master's & above,m,other,1,39,1,4,0,1,1,1
+9089,2176,Operations,region_15,Master's & above,m,other,2,48,1,17,0,1,1,1
+9236,13324,Operations,region_2,Bachelor's,m,other,1,50,1,5,0,1,1,1
+9400,17083,Operations,region_7,Bachelor's,m,other,2,38,1,3,0,1,1,1
+9405,77007,Operations,region_22,Master's & above,m,sourcing,1,50,1,7,0,1,1,1
+9697,49120,Sales & Marketing,region_2,Bachelor's,f,other,1,36,1,4,0,1,1,1
+10149,42492,Procurement,region_2,Bachelor's,m,sourcing,1,27,1,3,0,1,1,1
+10404,54635,Technology,region_26,Bachelor's,m,sourcing,1,35,1,7,0,1,1,1
+10434,75184,Sales & Marketing,region_10,Master's & above,m,sourcing,1,33,1,2,0,1,1,1
+10627,71017,Operations,region_7,Master's & above,f,other,2,34,1,2,0,1,1,1
+10675,73796,Operations,region_2,Master's & above,m,other,1,42,1,5,0,1,1,1
+10871,11585,Sales & Marketing,region_2,Master's & above,m,other,1,33,1,1,0,1,1,1
+10973,62580,Operations,region_25,Bachelor's,m,sourcing,1,35,1,7,0,1,1,1
+10997,2465,Sales & Marketing,region_13,Master's & above,m,sourcing,1,40,1,1,0,1,1,1
+11063,76707,Technology,region_10,Master's & above,m,sourcing,1,30,1,4,0,1,1,1
+11267,10331,Procurement,region_19,Bachelor's,m,sourcing,1,28,1,1,0,1,1,1
+11461,37495,Sales & Marketing,region_2,Master's & above,m,sourcing,1,56,1,8,0,1,1,1
+11987,65824,Technology,region_8,Bachelor's,f,other,1,31,1,5,0,1,1,1
+12525,18860,Finance,region_22,Below Secondary,f,other,1,25,1,2,0,1,1,1
+12526,9775,Procurement,region_22,Bachelor's,f,other,6,29,1,1,0,1,1,1
+12761,12401,Operations,region_2,Bachelor's,f,other,1,48,1,17,0,1,1,1
+12980,24146,Operations,region_8,Bachelor's,m,sourcing,1,28,1,3,0,1,1,1
+13856,67444,Analytics,region_31,Bachelor's,m,other,2,32,1,3,0,1,1,1
+13869,24153,Operations,region_27,Bachelor's,m,other,1,26,1,1,0,1,1,1
+13984,10212,Procurement,region_2,Master's & above,f,sourcing,1,49,1,16,0,1,1,1
+13989,19558,Sales & Marketing,region_2,,m,sourcing,1,47,1,7,0,1,1,1
+14073,77771,Operations,region_13,Master's & above,m,other,1,37,1,2,0,1,1,1
+14201,39910,Finance,region_13,Bachelor's,f,other,1,27,1,3,0,1,1,1
+14531,65925,Operations,region_22,Master's & above,f,other,1,34,1,6,0,1,1,1
+14757,39706,Operations,region_22,Bachelor's,m,sourcing,1,37,1,3,0,1,1,1
+15180,54681,Procurement,region_17,Master's & above,f,other,2,36,1,9,0,1,1,1
+15241,52100,Sales & Marketing,region_2,Master's & above,m,other,1,46,1,16,0,1,1,1
+15289,11990,Operations,region_2,Bachelor's,f,other,1,51,1,2,0,1,1,1
+15766,74737,Sales & Marketing,region_7,Bachelor's,m,other,1,29,1,4,0,1,1,1
+16094,27436,Sales & Marketing,region_2,,m,other,1,40,1,7,0,1,1,1
+16272,26211,Finance,region_2,Bachelor's,f,other,1,44,1,12,0,1,1,1
+16346,3330,Analytics,region_4,Bachelor's,m,other,2,28,1,2,0,1,1,1
+16425,60964,Procurement,region_7,Bachelor's,f,sourcing,2,40,1,3,0,1,1,1
+16691,54553,Analytics,region_15,Bachelor's,m,other,1,30,1,5,0,1,1,1
+17340,30703,Technology,region_2,Bachelor's,m,sourcing,1,41,1,10,0,1,1,1
+17387,10790,Technology,region_27,Bachelor's,m,other,2,28,1,1,0,1,1,1
+17543,17162,Operations,region_2,Bachelor's,f,other,1,37,1,4,0,1,1,1
+17663,57337,Operations,region_2,Bachelor's,f,sourcing,1,33,1,6,0,1,1,1
+17765,21080,Procurement,region_15,Master's & above,m,referred,1,36,1,6,0,1,1,1
+17836,27831,Analytics,region_12,Bachelor's,m,other,1,29,1,2,0,1,1,1
+18077,31696,Procurement,region_6,Bachelor's,f,other,1,33,1,4,0,1,1,1
+18226,71348,R&D,region_22,Master's & above,m,sourcing,2,34,1,3,0,1,1,1
+18363,9590,Technology,region_22,Bachelor's,f,sourcing,1,27,1,2,0,1,1,1
+18416,61704,Technology,region_33,Master's & above,m,other,1,39,1,8,0,1,1,1
+18723,22367,Analytics,region_2,Bachelor's,m,sourcing,1,38,1,3,0,1,1,1
+19548,39416,Analytics,region_28,Master's & above,m,sourcing,1,38,1,6,0,1,1,1
+19735,35575,Operations,region_22,Bachelor's,f,sourcing,2,29,1,6,0,1,1,1
+19809,57549,Technology,region_7,Master's & above,f,sourcing,1,31,1,5,0,1,1,1
+19923,71954,Procurement,region_17,Bachelor's,m,other,1,25,1,2,0,1,1,1
+20120,75045,Operations,region_26,Bachelor's,m,other,1,25,1,2,0,1,1,1
+21354,67296,Analytics,region_22,Bachelor's,m,referred,1,26,1,2,0,1,1,1
+21412,76857,Analytics,region_32,Bachelor's,m,sourcing,2,34,1,5,0,1,1,1
+21421,285,Operations,region_5,Master's & above,m,other,1,47,1,19,0,1,1,1
+21491,31396,Finance,region_7,Bachelor's,f,sourcing,2,29,1,2,0,1,1,1
+21947,26132,Technology,region_7,Below Secondary,f,sourcing,1,25,1,4,0,1,1,1
+22797,28761,Procurement,region_7,Master's & above,m,other,1,47,1,4,0,1,1,1
+23133,23742,Procurement,region_20,Master's & above,m,other,1,34,1,6,0,1,1,1
